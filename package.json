@@ -1,5 +1,5 @@
 {
-  "name": "pancake-toolkit",
+  "name": "cashcow-exchange-ui",
   "version": "1.0.0",
   "description": "Pancake frontend packages",
   "private": false,
@@ -8,13 +8,13 @@
   ],
   "repository": {
     
-    "url": "https://github.com/akshayeiysys/ajay-toolkit"
+    "url": "https://github.com/akshayeiysys/cashcow-exchange-toolkit"
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/akshayeiysys/ajay-toolkit/issues"
+    "url": "https://github.com/akshayeiysys/cashcow-exchange-toolkit/issues"
   },
-  "homepage": "https://github.com/akshayeiysys/ajay-toolkit#readme",
+  "homepage": "https://github.com/akshayeiysys/cashcow-exchange-toolkit#readme",
   "scripts": {
     "build": "lerna run build",
     "test": "lerna run test",
